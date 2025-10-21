@@ -1,0 +1,6 @@
+name: d400-ps1-ex2
+channels:
+  - conda-forge
+  - giuliorossetti
+  - defaults
+prefix: C:\Users\david\miniconda3\envs\d400-ps1-ex2
